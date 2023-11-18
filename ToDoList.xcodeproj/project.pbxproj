@@ -10,6 +10,7 @@
 		5A5829A52ADFBDCD00482305 /* AddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A5829A42ADFBDCD00482305 /* AddView.swift */; };
 		5A5829A82ADFC3CC00482305 /* ItemModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A5829A72ADFC3CC00482305 /* ItemModel.swift */; };
 		5A5829AB2ADFCE6F00482305 /* ListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A5829AA2ADFCE6F00482305 /* ListViewModel.swift */; };
+		5A66AB0C2B08D7F000882B34 /* NoItemsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A66AB0B2B08D7F000882B34 /* NoItemsView.swift */; };
 		5A7B6E492ADD62A400E88CEC /* ToDoListApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A7B6E482ADD62A400E88CEC /* ToDoListApp.swift */; };
 		5A7B6E4D2ADD62AB00E88CEC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A7B6E4C2ADD62AB00E88CEC /* Assets.xcassets */; };
 		5A7B6E502ADD62AB00E88CEC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A7B6E4F2ADD62AB00E88CEC /* Preview Assets.xcassets */; };
@@ -21,6 +22,7 @@
 		5A5829A42ADFBDCD00482305 /* AddView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddView.swift; sourceTree = "<group>"; };
 		5A5829A72ADFC3CC00482305 /* ItemModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemModel.swift; sourceTree = "<group>"; };
 		5A5829AA2ADFCE6F00482305 /* ListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewModel.swift; sourceTree = "<group>"; };
+		5A66AB0B2B08D7F000882B34 /* NoItemsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoItemsView.swift; sourceTree = "<group>"; };
 		5A7B6E452ADD62A400E88CEC /* ToDoList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ToDoList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A7B6E482ADD62A400E88CEC /* ToDoListApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListApp.swift; sourceTree = "<group>"; };
 		5A7B6E4C2ADD62AB00E88CEC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 				5A7B6E572ADD67B400E88CEC /* ListView.swift */,
 				5A7B6E592ADD69FF00E88CEC /* ListRowView.swift */,
 				5A5829A42ADFBDCD00482305 /* AddView.swift */,
+				5A66AB0B2B08D7F000882B34 /* NoItemsView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -178,6 +181,7 @@
 				5A5829AB2ADFCE6F00482305 /* ListViewModel.swift in Sources */,
 				5A7B6E492ADD62A400E88CEC /* ToDoListApp.swift in Sources */,
 				5A7B6E582ADD67B400E88CEC /* ListView.swift in Sources */,
+				5A66AB0C2B08D7F000882B34 /* NoItemsView.swift in Sources */,
 				5A7B6E5A2ADD69FF00E88CEC /* ListRowView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
