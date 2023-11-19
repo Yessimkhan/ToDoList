@@ -22,4 +22,4 @@ A simple ToDoList application for iOS built using SwiftUI and follows the MVVM (
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/Yessimkhan/ToDoList.git
+   https://github.com/Yessimkhan/ToDoList.git
